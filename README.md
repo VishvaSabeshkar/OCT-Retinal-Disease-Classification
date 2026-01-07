@@ -79,10 +79,6 @@ The model shows strong generalization across all four retinal disease classes.
 
 ## How to Run
 ```bash
-
-git clone https://github.com/your-username/oct-retinal-analysis.git
-cd oct-retinal-analysis
-
 pip install -r requirements.txt
 
 streamlit run app.py
