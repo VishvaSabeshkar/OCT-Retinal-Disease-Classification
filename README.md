@@ -1,4 +1,4 @@
-# OCT Retinal Disease Classification using Deep Learning
+# OCT Retinal Disease Classification using Deep Learning 
 
 ## Overview
 This project implements an **AI-assisted retinal OCT analysis platform** that classifies Optical Coherence Tomography (OCT) images into four clinically relevant categories: **CNV, DME, DRUSEN, and NORMAL**.
